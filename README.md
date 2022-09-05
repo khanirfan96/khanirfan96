@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanirfan96
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on Android Development,Backend Development.
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently working as a Frontend Developer
+- 💞️ I’m looking to collaborate on Frontend Development,Backend Development.
 - 📫 How to reach me irfank.ik141@gmail.com
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanirfan96
-- 👀 I’m interested in Frontend Development.
+- 👀 I’m interested in Fullstack Development.
 - 🌱 I’m currently working as a Frontend Developer
-- 💞️ I’m looking to collaborate on Frontend Development,Backend Development.
+- 💞️ I’m looking to collaborate on Frontend and Backend Development.
 - 📫 How to reach me irfank.ik141@gmail.com
 
 <!---

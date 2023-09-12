@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khanirfan96
+- 👋 Hi, I’m Irfan Khan
 - 👀 I’m interested in Fullstack Development.
 - 🌱 I’m currently working as a Frontend Developer
 - 💞️ I’m looking to collaborate on Frontend and Backend Development.
